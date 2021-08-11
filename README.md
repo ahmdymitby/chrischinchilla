@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-![Chinchilla](https://d33wubrfki0l68.cloudfront.net/2647bc3311187ef5dbdb07f7782828a2d2286d8d/fd232/generated/chinchilla-280-7002047ec.png)
+![12405028-E541-437A-A20C-4280B1EB2E71](https://user-images.githubusercontent.com/42080/129055822-1034eb0d-ec7e-4590-8a76-413edf5a235f.JPG)
 
 Technical writer, developer experience aficionado, blogger, podcaster, streamer, game, and fiction writer.
 
