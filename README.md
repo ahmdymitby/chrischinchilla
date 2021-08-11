@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![12405028-E541-437A-A20C-4280B1EB2E71](https://user-images.githubusercontent.com/42080/129055822-1034eb0d-ec7e-4590-8a76-413edf5a235f.JPG)
+![12405028-E541-437A-A20C-4280B1EB2E71](https://user-images.githubusercontent.com/42080/129056552-2bc4dd72-1bc2-4498-9d2d-758131c9662b.jpeg)
 
 I am Chris, a Technical writer, developer experience aficionado, blogger, podcaster, streamer, game, and fiction writer.
 
